@@ -1,9 +1,9 @@
 import React from "react";
 import TeamCard from "./TeamCard";
 
-import member1 from "../../assets/img/team1.JPG";
-import member2 from "../../assets/img/team2.JPG";
-import member3 from "../../assets/img/team3.JPG";
+import member1 from "../../assets/img/team1.jpg";
+import member2 from "../../assets/img/team2.jpg";
+import member3 from "../../assets/img/team3.jpg";
 
 const Team = () => {
   const teamMembers = [
