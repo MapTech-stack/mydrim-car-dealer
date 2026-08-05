@@ -3,7 +3,7 @@ import { FaLinkedinIn, FaFacebookF, FaInstagram } from "react-icons/fa";
 const TeamCard = ({ image, name, role, description }) => {
   return (
     <div className="overflow-hidden rounded-3xl bg-white shadow-lg transition duration-300 hover:-translate-y-2 hover:shadow-2xl">
-      <img src={image} alt={name} className="h-80 w-full object-cover" />
+      <img src={image} alt={name} className="h-95 w-full object-cover object-top" />
 
       <div className="p-6">
         <h3 className="text-2xl font-bold text-slate-900">{name}</h3>

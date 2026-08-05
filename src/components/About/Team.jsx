@@ -10,10 +10,10 @@ const Team = () => {
     {
       id: 1,
       image: member1,
-      name: "James Anderson",
+      name: "Chief Damisa",
       role: "Founder & CEO",
       description:
-        "With over 15 years of experience in the automotive industry, James leads the company with a commitment to honesty, quality, and exceptional customer service.",
+        "With over 15 years of experience in the automotive industry, Chief Damisa leads the company with a commitment to honesty, quality, and exceptional customer service.",
     },
     {
       id: 2,
