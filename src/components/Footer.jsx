@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
               <GiSteeringWheel size={38} className="text-blue-500" />
 
-              <div>
+              <Link to="/" className="flex flex-col leading-none">
                 <h2 className="text-2xl font-bold text-white">
                  MYDRIM
                 </h2>
@@ -27,7 +27,7 @@ const Footer = () => {
                 <p className="text-xs uppercase tracking-[0.3em] text-slate-400">
                   GROUP
                 </p>
-              </div>
+              </Link>
             </div>
 
             <p className="mt-6 leading-7 text-slate-400">
